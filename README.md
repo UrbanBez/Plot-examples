@@ -7,4 +7,4 @@ Generally, I combine the [seaborn library](http://seaborn.pydata.org/index.html)
 In case of any questions, please [email me](mailto:ubezelja@ist.ac.at).
 
 ## Fig. 3B example
-Fig. 3B Jupyter [notebook](Fig. 3B example.ipynb)
+Fig. 3B Jupyter [notebook](Fig._3B_example.ipynb)
