@@ -7,4 +7,6 @@ Generally, I combine the [seaborn library](http://seaborn.pydata.org/index.html)
 In case of any questions, please [email me](mailto:ubezelja@ist.ac.at).
 
 ## Fig. 3B example
+Figure 3B displays a frequency scatter diagram of Rab5 membrane lifetimes before (GDP) and after (GTP) nucleotide exchange. This example will introduce you to displaying scattered data points on a log axis and defining the axis tick values.
+
 Fig. 3B Jupyter [notebook](Fig._3B_example.ipynb)
