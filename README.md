@@ -13,4 +13,4 @@ Figure 3B displays a frequency scatter diagram of Rab5 membrane lifetimes before
 
 ![](fig3B_example.png)
 
-Fig. 3B Jupyter [notebook](Fig._3B_example.ipynb)
+**Fig. 3B Jupyter [notebook](Fig._3B_example.ipynb)**
