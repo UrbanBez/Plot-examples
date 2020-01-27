@@ -6,7 +6,15 @@ Generally, I combine the [seaborn library](http://seaborn.pydata.org/index.html)
 
 I recommend saving the plots as vector .svg graphics and editing them in Adobe Illustrator or open-source [Inkscape](https://inkscape.org/).
 
+
+
 In case of any questions, please [email me](mailto:ubezelja@ist.ac.at).
+
+
+
+
+
+**Note: the figures are not necessary exactly the same as seen in the paper. The examples are meant to present the main formatting features of individual plots.*
 
 ## Fig. 3B example
 Figure 3B displays a frequency scatter diagram of Rab5 membrane lifetimes before (GDP) and after (GTP) nucleotide exchange. This example will introduce you to displaying scattered data points on a log axis and defining the axis tick values.
