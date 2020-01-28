@@ -16,6 +16,13 @@ In case of any questions, please [email me](mailto:ubezelja@ist.ac.at).
 
 **Note: the figures are not necessary exactly the same as seen in the paper. The examples are meant to present the main formatting features of individual plots.*
 
+## Fig. 1B example
+The Figure 1B example will introduce you to a regular line plot with SD error depicted in shaded area.
+
+![](fig1B_example.png)
+
+**Fig. 1B Jupyter [notebook](Fig_1B_example.ipynb)**
+
 ## Fig. 3B example
 Figure 3B displays a frequency scatter diagram of Rab5 membrane lifetimes before (GDP) and after (GTP) nucleotide exchange. This example will introduce you to displaying scattered data points on a log axis and defining the axis tick values.
 
