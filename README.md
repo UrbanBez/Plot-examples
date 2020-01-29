@@ -21,11 +21,11 @@ The Figure 1B example will introduce you to a regular line plot with SD error de
 
 ![](fig1B_example.png)
 
-**Fig. 1B Jupyter [notebook](Fig_1B_example.ipynb)**
+**>> Fig. 1B Jupyter [notebook](Fig_1B_example.ipynb) <<**
 
 ## Fig. 3B example
 Figure 3B displays a frequency scatter diagram of Rab5 membrane lifetimes before (GDP) and after (GTP) nucleotide exchange. This example will introduce you to displaying scattered data points on a log axis and defining the axis tick values.
 
 ![](fig3B_example.png)
 
-**Fig. 3B Jupyter [notebook](Fig._3B_example.ipynb)**
+**>> Fig. 3B Jupyter [notebook](Fig._3B_example.ipynb) <<**
