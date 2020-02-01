@@ -23,7 +23,14 @@ The Figure 1B example will introduce you to a regular line plot with SD error de
 
 **>> Fig. 1B Jupyter [notebook](Fig_1B_example.ipynb) <<**
 
-## Fig. 3B example
+## Fig. 3B example (trajectory diagram)
+Figure 3B displays a trajectory diagram of 500 random Rab5 single particle trajectories and after (GTP) nucleotide exchange. The trajectories are color-coded for their duration.
+
+![](fig3B_GTP.png)
+
+**>> Fig. 3B (trajectories) Jupyter [notebook](Fig_3B_trajectories_example.ipynb) <<**
+
+## Fig. 3B example (frequency diagram)
 Figure 3B displays a frequency scatter diagram of Rab5 membrane lifetimes before (GDP) and after (GTP) nucleotide exchange. This example will introduce you to displaying scattered data points on a log axis and defining the axis tick values.
 
 ![](fig3B_example.png)
