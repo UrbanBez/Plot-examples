@@ -43,3 +43,4 @@ Here you can find useful data analyis examples:
 
 - Fluorescence intensity readout import
 - Gompertz function fitting
+- Normalization and averaging
