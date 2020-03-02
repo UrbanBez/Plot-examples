@@ -41,5 +41,5 @@ Figure 3B displays a frequency scatter diagram of Rab5 membrane lifetimes before
 
 Here you can find useful data analyis examples:
 
-	* Fluorescence intensity readout import
-	* Gompertz function fitting
+- Fluorescence intensity readout import
+- Gompertz function fitting
