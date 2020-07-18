@@ -44,3 +44,4 @@ Here you can find useful data analyis examples:
 - **[Fluorescence intensity readout import](notebooks/imagej_data_import.ipynb)**
 - **[Gompertz function fitting](notebooks/Gompertz_fit.ipynb)**
 - Normalization and averaging
+- **[Particle deflection angles](notebooks/particle_angles.ipynb)**
