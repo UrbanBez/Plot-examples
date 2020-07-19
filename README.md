@@ -45,4 +45,4 @@ Here you can find useful data analyis examples:
 - **[Gompertz function fitting](notebooks/Gompertz_fit.ipynb)**
 - Normalization and averaging
 - **[Particle deflection angles](notebooks/particle_angles.ipynb)**
-- **[Grid kinetic analysis](notebooks/200712_grid_analysis_script.ipynb)**
+- **[Grid kinetic analysis](notebooks/200719_grid_analysis_script.ipynb)**
